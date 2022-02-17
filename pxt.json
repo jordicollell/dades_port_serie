@@ -1,5 +1,5 @@
 {
-    "name": "sensor",
+    "name": "dades_port_serie",
     "description": "",
     "dependencies": {
         "core": "*",
